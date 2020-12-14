@@ -16,4 +16,4 @@ This application is composed by several screens where the user can navigate thro
  This repository displays the different screens of the application, as well as some additional details on the developed database.
  
  ## Credits
- This project was made by Patrícia Vale and Vítor Morais, for the Human-Computer Interaction (IHC) course in University of Aveiro, in 2018.
+ This project was made by Patrícia Vale and Vítor Morais, for the Human-Computer Interaction (IHC) course, and the database by Patrícia Vale and Ricardo Pousa, for the Databases (BD) couse in University of Aveiro, in 2018.
