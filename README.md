@@ -11,10 +11,9 @@ This application is composed by several screens where the user can navigate thro
  - **Restaurant** (Options for inside the restaurant)
  - **Favorites** (User's favorite restaurants)
  - **Settings** (Application's and user's settings)
- - **Database** (Details on the database)
  
  ## Repository
- This repository displays the different screens of the application, as well as some additional details on the developed database and some extras (paper mockup and application studies).
+ This repository displays the different screens of the application, as well as some additional details on the developed database.
  
  ## Credits
  This project was made by Patrícia Vale and Vítor Morais, for the Human-Computer Interaction (IHC) course in University of Aveiro, in 2018.
